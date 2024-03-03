@@ -1,0 +1,91 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 3080ti Interface
+Predicting images:  15%|█▌        | 613/4000 [07:16<40:38,  1.39it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_3077.jpg
+Predicting images:  15%|█▌        | 618/4000 [07:20<40:54,  1.38it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_978.jpg
+Predicting images:  19%|█▊        | 742/4000 [08:49<39:31,  1.37it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_801.jpg
+Predicting images:  22%|██▏       | 884/4000 [10:29<36:03,  1.44it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_1737.jpg
+Predicting images:  25%|██▌       | 1012/4000 [11:56<33:17,  1.50it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_1079.jpg
+Predicting images:  34%|███▍      | 1378/4000 [16:06<30:45,  1.42it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_2008.jpg
+Predicting images:  34%|███▍      | 1379/4000 [16:06<30:36,  1.43it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_80.jpg
+Predicting images:  38%|███▊      | 1509/4000 [17:40<29:36,  1.40it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_3505.jpg
+Predicting images:  40%|████      | 1601/4000 [18:46<28:43,  1.39it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_2038.jpg
+Predicting images:  43%|████▎     | 1719/4000 [20:09<27:27,  1.38it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_2189.jpg
+Predicting images:  44%|████▍     | 1780/4000 [20:53<26:13,  1.41it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_2397.jpg
+Predicting images:  48%|████▊     | 1926/4000 [22:37<24:42,  1.40it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_3206.jpg
+Predicting images:  62%|██████▏   | 2482/4000 [29:15<17:49,  1.42it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_3450.jpg
+Predicting images:  69%|██████▉   | 2779/4000 [32:43<14:09,  1.44it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_3476.jpg
+Predicting images:  75%|███████▌  | 3010/4000 [35:25<11:23,  1.45it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_157.jpg
+Predicting images:  76%|███████▋  | 3054/4000 [35:57<11:13,  1.41it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_2834.jpg
+Predicting images:  79%|███████▉  | 3151/4000 [37:08<10:15,  1.38it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_1456.jpg
+Predicting images:  85%|████████▌ | 3401/4000 [40:10<07:23,  1.35it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_1954.jpg
+Predicting images:  89%|████████▉ | 3572/4000 [42:11<04:57,  1.44it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_1904.jpg
+Predicting images:  90%|████████▉ | 3585/4000 [42:20<04:49,  1.43it/s]
+No descriptors found in one or both of the images. Skipping ./data/newest_test/test_2260.jpg
+Predicting images:  94%|█████████▍| 3750/4000 [44:19<02:58,  1.40it/s]
+Not enough descriptors found in one or both of the images. Skipping ./data/newest_test/test_2374.jpg
+Predicting images: 100%|██████████| 4000/4000 [47:20<00:00,  1.41it/s]
+Total prediction time: 2840.2304804325104 seconds
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 1050ti Interface
+Predicting images:   2%|▏         | 90/4000 [03:01<2:05:00,  1.92s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_1079.jpg
+Predicting images:  13%|█▎        | 509/4000 [17:30<2:03:55,  2.13s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_1456.jpg
+Predicting images:  16%|█▌        | 635/4000 [21:46<1:44:10,  1.86s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_157.jpg
+Predicting images:  21%|██        | 821/4000 [27:37<1:45:54,  2.00s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_1737.jpg
+Predicting images:  25%|██▌       | 1007/4000 [33:40<1:33:05,  1.87s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_1904.jpg
+Predicting images:  27%|██▋       | 1062/4000 [35:29<1:33:06,  1.90s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_1954.jpg
+Predicting images:  28%|██▊       | 1123/4000 [37:25<1:28:35,  1.85s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_2008.jpg
+Predicting images:  29%|██▉       | 1156/4000 [38:27<1:30:00,  1.90s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_2038.jpg
+Predicting images:  33%|███▎      | 1323/4000 [43:37<1:20:19,  1.80s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_2189.jpg
+Predicting images:  35%|███▌      | 1403/4000 [46:08<1:22:22,  1.90s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_2260.jpg
+Predicting images:  38%|███▊      | 1529/4000 [50:16<1:19:10,  1.92s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_2374.jpg
+Predicting images:  39%|███▉      | 1554/4000 [51:06<1:24:49,  2.08s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_2397.jpg
+Predicting images:  51%|█████     | 2040/4000 [1:06:42<58:56,  1.80s/it]  
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_2834.jpg
+Predicting images:  58%|█████▊    | 2310/4000 [1:15:17<53:16,  1.89s/it]  
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_3077.jpg
+Predicting images:  61%|██████▏   | 2454/4000 [1:19:50<49:08,  1.91s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_3206.jpg
+Predicting images:  68%|██████▊   | 2725/4000 [1:28:20<37:54,  1.78s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_3450.jpg
+Predicting images:  69%|██████▉   | 2753/4000 [1:29:11<38:04,  1.83s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_3476.jpg
+Predicting images:  70%|██████▉   | 2786/4000 [1:30:12<38:20,  1.90s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_3505.jpg
+Predicting images:  94%|█████████▍| 3780/4000 [2:01:57<06:43,  1.83s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_80.jpg
+Predicting images:  95%|█████████▍| 3782/4000 [2:02:01<06:40,  1.84s/it]
+No descriptors found in one or both of the images. Skipping ./input/newest_test/test_801.jpg
+Predicting images:  99%|█████████▉| 3977/4000 [2:08:21<00:42,  1.84s/it]
+Not enough descriptors found in one or both of the images. Skipping ./input/newest_test/test_978.jpg
+Predicting images: 100%|██████████| 4000/4000 [2:09:06<00:00,  1.94s/it]
+Total prediction time: 7746.987056493759 seconds
